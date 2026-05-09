@@ -5,25 +5,25 @@
 Me chamo Breno, tenho 19 anos e sou de Jundiaí, SP. Atualmente, estou cursando superior em Cibersegurança. A cibersegurança entrou na minha vida pela curiosidade de entender o que acontece nos bastidores dos sistemas, e se existia uma forma de virar o jogo. Desde então venho estudando de forma autodidata e colocando em prática através de desafios de CTF.
 
 <p align="left">
-    <a href="https://tryhackme.com/p/sluck">
+    <a href="https://tryhackme.com/p/BrenoRAM">
         <img 
             alt="TryHackMe" 
             title="Perfil do TryHackMe" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BrenoRAM?color=%23E05D44&style=for-the-badge&labelColor=CE4630&logo=tryhackme&logoColor=white&label=tryhackme"
+            src="https://img.shields.io/badge/TryHackMe-BrenoRAM-E05D44?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=CE4630"
         />
     </a>
     <a href="https://profile.hackthebox.com/profile/019e0db7-4d62-72e7-bc3e-d92d3ac6ca9d">
         <img 
             alt="HackTheBox" 
             title="Perfil do HackTheBox" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BrenoRAM?color=1a9e4a&style=for-the-badge&labelColor=0d7a36&logo=hackthebox&logoColor=9FEF00&label=HackTheBox"
+            src="https://img.shields.io/badge/HackTheBox-BrenoRAM-1a9e4a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d7a36"
         />
     </a>
     <a href="https://www.linkedin.com/in/brenormlh">
         <img 
             alt="LinkedIn" 
             title="Perfil do LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BrenoRAM?color=0077B5&style=for-the-badge&labelColor=005885&logo=linkedin&logoColor=white&label=LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-brenormlh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005885"
         />
     </a>
 </p>
