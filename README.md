@@ -66,6 +66,14 @@ Me chamo Breno, tenho 19 anos e sou de Jundiaí, SP. Atualmente, estou cursando 
 />
 <img 
     align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bash" 
     title="Bash"
     width="30px" 
